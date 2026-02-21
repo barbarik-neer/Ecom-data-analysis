@@ -1,0 +1,5 @@
+data/
+*.csv
+notebooks/Returns_dataset
+notebooks/sales_cleaned_dataset
+.ipynb_checkpoints/
