@@ -7,5 +7,46 @@ Tools used:
 - Power BI
 - GitHub
 
-Status: Work in progress 🚧
+## Project Objective
 
+The goal of this project is to analyze e-commerce transaction data to identify:
+- Sales trends over time
+- Top-performing products
+- Customer purchasing behavior
+- Revenue patterns and return impact
+
+## Dataset Information
+
+The original dataset contains transaction-level e-commerce sales data including:
+- Invoice number
+- Product description
+- Quantity
+- Unit price
+- Customer ID
+- Country
+- Invoice date
+
+Note: Raw datasets are excluded from this repository due to size limitations.
+
+## Project Structure
+
+Ecom-data-analysis/
+│── data/
+|    └── online_retail.csv    # Raw data
+├── notebooks/
+│   └── Analysis.ipynb        # Data cleaning, EDA, visualizations
+│
+├── images/                   # Exported charts 
+│
+├── README.md
+└── .gitignore
+
+## Key insights
+- UK contributes highest of transactions.
+- Seasonal spikes in quarter 4
+- Most revenue generated from a small percentage of products
+
+### few charts from analysis
+
+![Most sold products](image-1.png)
+![Monthly Revenue](image.png)
