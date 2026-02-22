@@ -51,5 +51,8 @@ Ecom-data-analysis/
 ![Most sold products](image-1.png)
 ![Monthly Revenue](image.png)
 
+## power BI insights
+![Complete Sales analysis](images/BI_analysis.png)
+
 #### Dataset not included due to size.
 Please download the Online Retail dataset from Kaggle and place it inside the data/ folder.
