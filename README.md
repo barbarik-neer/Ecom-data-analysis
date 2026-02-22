@@ -50,3 +50,6 @@ Ecom-data-analysis/
 
 ![Most sold products](image-1.png)
 ![Monthly Revenue](image.png)
+
+#### Dataset not included due to size.
+Please download the Online Retail dataset from Kaggle and place it inside the data/ folder.
